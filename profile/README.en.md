@@ -45,6 +45,10 @@ Looking for inspiration? Here are some things the community is building:
 - **Portfolio Watcher** — Multi-wallet asset monitoring with AI-powered risk signals
 - **Alpha Signal Engine** — Aggregate KOL calls with on-chain smart money validation
 
+## Join the Community
+
+DM [@siriusxyzzz](https://x.com/siriusxyzzz) on Twitter/X to join our developer WeChat group for API credits and support.
+
 ## Get Involved
 
 - **Explore** — Check out [awesome-surf](https://github.com/build-with-surf/awesome-surf) for community projects
